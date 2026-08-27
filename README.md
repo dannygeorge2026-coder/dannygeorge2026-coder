@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannygeorgedev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danny_george_10)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YDanny2007/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Danny2007/)
 
 I'm a 2nd-year **Computer Science & Engineering student at College of Engineering Trivandrum (CET)**. I specialize in building autonomous **Agentic AI systems**, multi-agent pipelines, and LLM-driven applications.
 
@@ -45,10 +45,10 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 
 ---
 
-### 🧩 Competitive Programming & DSA
+### 🧩 Competitive Programming & Activity
 
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Danny2007" alt="LeetCode Stats" width="60%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Danny2007&theme=dark" alt="Danny's LeetCode Stats" width="60%" />
 </p>
 
 ---
