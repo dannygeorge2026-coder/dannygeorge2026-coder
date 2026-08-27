@@ -45,11 +45,9 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 
 ---
 
-### 🧩 Competitive Programming & Activity
+### 🧩 Competitive Programming
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Danny2007&theme=dark" alt="Danny's LeetCode Stats" width="60%" />
-</p>
+[![LeetCode Profile](https://img.shields.io/badge/View_LeetCode_Profile-Danny2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Danny2007)
 
 ---
 
