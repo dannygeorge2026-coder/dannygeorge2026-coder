@@ -7,10 +7,10 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I'm Building
 
 - 🤖 **Autonomous Multi-Agent Sales Pipeline**: Parallel email generation across 3 distinct personas using **OpenAI Agents SDK** & **OpenRouter LLMs**, featuring an automated AI judge and SMTP auto-delivery.
-- 👤 **Digital Twin AI Assistant**: Personal website representation powered by **NVIDIA Nemotron 3 Super 120B**, reading real-time profile data through a **Gradio** chat interface.
+- 👤 **Digital Twin AI Assistant**: Personal website representation powered by **NVIDIA Nemotron 3 Super 120B**, reading real-time profile data through a **Gradio** interface.
 
 ---
 
@@ -22,7 +22,13 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### Frameworks & AI Tooling
+#### AI Agent Frameworks & Orchestration
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+#### Tools & Interfaces
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
@@ -41,5 +47,4 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 
 ### 🏎️ Beyond the Code
 
-When I'm not configuring agents or fine-tuning prompts, you'll find me tracking **Formula 1** race strategies or watching **Football** ⚽.
-
+When I'm not configuring agents or building graph workflows, you'll find me tracking **Formula 1** race strategies or watching **Football** ⚽.
