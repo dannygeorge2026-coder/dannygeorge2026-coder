@@ -36,11 +36,10 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannygeorge2026-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="Danny's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannygeorge2026-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://ghchart.rshah.org/412991/dannygeorge2026-coder" alt="Danny's Github Contributions" width="100%" />
 </p>
 
 ---
