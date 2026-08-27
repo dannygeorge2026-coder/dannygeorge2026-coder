@@ -33,8 +33,8 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Danny's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dannygeorge2026-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="Danny's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannygeorge2026-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -43,4 +43,3 @@ I'm a 2nd-year **Computer Science & Engineering student at College of Engineerin
 
 When I'm not configuring agents or fine-tuning prompts, you'll find me tracking **Formula 1** race strategies or watching **Football** ⚽.
 
-*Replace `YOUR_GITHUB_USERNAME` in the image links with your actual GitHub handle.*
